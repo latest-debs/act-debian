@@ -1,0 +1,48 @@
+{
+  "gate": "pass",
+  "license": {
+    "declared": "MIT",
+    "detected": [
+      "MIT"
+    ],
+    "license_files": [
+      "//tmp/tmp.Lr9cSuyKXt/x/LICENSE"
+    ],
+    "matches": true,
+    "status": "pass",
+    "detail": "declared MIT matches detected MIT"
+  },
+  "asset": {
+    "format": "tar.gz",
+    "size": 7453153,
+    "valid": true,
+    "is_html": false,
+    "binary": "act",
+    "elf_arch": "ARM aarch64",
+    "status": "pass",
+    "detail": "valid tar.gz archive containing 1 ELF executable(s); first: act (ARM aarch64); release covers: amd64 arm64 armhf i386 riscv64 "
+  },
+  "architectures": {
+    "covered": [
+      "amd64",
+      "arm64",
+      "armhf",
+      "i386",
+      "riscv64"
+    ],
+    "missing": [
+      "armel",
+      "ppc64el",
+      "s390x",
+      "loong64"
+    ],
+    "assets": {
+      "amd64": "act_Linux_x86_64.tar.gz",
+      "arm64": "act_Linux_arm64.tar.gz",
+      "armhf": "act_Linux_armv7.tar.gz",
+      "i386": "act_Linux_i386.tar.gz",
+      "riscv64": "act_Linux_riscv64.tar.gz"
+    }
+  },
+  "vetted_at": "2026-08-19T15:19:10Z"
+}

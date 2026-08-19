@@ -1,0 +1,43 @@
+{
+  "package": "act",
+  "upstream_repo": "nektos/act",
+  "version": "v0.2.89",
+  "tag": "v0.2.89",
+  "published_at": "2026-06-01T03:22:22Z",
+  "license": "MIT",
+  "asset": "act_Linux_arm64.tar.gz",
+  "asset_size": 7453153,
+  "sha256": "daa8679ba9615a74d2d0cec321dc593f21948a2a11bb65862b063d8b930f4bcb",
+  "expected_sha256": "daa8679ba9615a74d2d0cec321dc593f21948a2a11bb65862b063d8b930f4bcb",
+  "checksum_source": "checksums.txt",
+  "checksum_verified": true,
+  "assets": {
+    "act_Linux_armv6.tar.gz": {
+      "sha256": "11a826255a78bbe5ac25fca5f4c5fae96f651f2cfda460d240a79a21f884fbbf",
+      "size": 7767621
+    },
+    "act_Linux_riscv64.tar.gz": {
+      "sha256": "a37df9bdc62f0f718952516eeec8ee9e014bd4a949c124456a6ac82bba40e63e",
+      "size": 7746445
+    },
+    "act_Linux_arm64.tar.gz": {
+      "sha256": "daa8679ba9615a74d2d0cec321dc593f21948a2a11bb65862b063d8b930f4bcb",
+      "size": 7453153
+    },
+    "act_Linux_x86_64.tar.gz": {
+      "sha256": "0191d6f1f3b716b5c55820032605d05fc3c1cdbf581ebeff655019e5dd1524c0",
+      "size": 8200078
+    },
+    "act_Linux_armv7.tar.gz": {
+      "sha256": "50c65e5034a9a065b8937d2d9e3ad9418311d4f26348a8b9047f2190c89ccdc4",
+      "size": 7755791
+    },
+    "act_Linux_i386.tar.gz": {
+      "sha256": "d1bdc91e33b94a86f078d90c32079660e0349ac8f56a94e23238a578b0cdb0f6",
+      "size": 7819963
+    }
+  },
+  "asset_count": 6,
+  "vetted_at": "2026-08-19T15:19:09Z",
+  "vetted_by": ""
+}

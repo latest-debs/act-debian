@@ -1,0 +1,9 @@
+# Package definition for act
+
+package_name: act
+github_repo: nektos/act
+artifact_format: tar.gz
+description: "Runs GitHub Actions workflows locally in Docker containers, letting developers test CI changes without pushing to GitHub."
+license: MIT
+
+# Build for all Debian suites and all supported architectures.
